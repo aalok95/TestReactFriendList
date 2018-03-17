@@ -1,2 +1,0 @@
-# TestReactFriendList
-Created with CodeSandbox
